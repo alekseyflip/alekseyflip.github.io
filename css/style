@@ -1,0 +1,25 @@
+div {
+    margin: 25px 15% 25px 15%;
+    background: #F2F2F2;
+    padding: 5px;
+    border: 1px solid #696969;
+    font-family: Arial;
+}
+
+.text {
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+ul {
+    margin-left: 33%;
+    text-align: left;
+    line-height: 1.2;
+}
