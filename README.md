@@ -1,2 +1,1 @@
-# homework
-my home work from gofe7
+#homework
